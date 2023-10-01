@@ -1,0 +1,7 @@
+[Inputs]
+clk
+reset
+start
+[Outputs]
+=Q[15:0]=
+[BiDir]

@@ -1,0 +1,20 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/PC/Documents/Obsidian Vault/University Courses/Year 3/Semester 1/EEE40002/Labs/Lab 3/VHDL/Lab3/memory_tb_isim_beh.exe -prj C:/Users/PC/Documents/Obsidian Vault/University Courses/Year 3/Semester 1/EEE40002/Labs/Lab 3/VHDL/Lab3/memory_tb_beh.prj work.memory_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/PC/Documents/Obsidian Vault/University Courses/Year 3/Semester 1/EEE40002/Labs/Lab 3/VHDL/Lab3/Part_1.vhd" into library work
+Parsing VHDL file "C:/Users/PC/Documents/Obsidian Vault/University Courses/Year 3/Semester 1/EEE40002/Labs/Lab 3/VHDL/Lab3/Lab3_part1_testbench.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling architecture rtl of entity memory [memory_default]
+Compiling architecture test of entity memory_tb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 6 VHDL Units
+Built simulation executable C:/Users/PC/Documents/Obsidian Vault/University Courses/Year 3/Semester 1/EEE40002/Labs/Lab 3/VHDL/Lab3/memory_tb_isim_beh.exe
+Fuse Memory Usage: 36364 KB
+Fuse CPU Usage: 327 ms

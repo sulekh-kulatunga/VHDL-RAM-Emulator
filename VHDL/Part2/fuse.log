@@ -1,0 +1,18 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/PC/Documents/Obsidian Vault/University Courses/Year 3/Semester 1/EEE40002/Labs/Lab 3/VHDL/Part2/lfsr_tb_isim_beh.exe -prj C:/Users/PC/Documents/Obsidian Vault/University Courses/Year 3/Semester 1/EEE40002/Labs/Lab 3/VHDL/Part2/lfsr_tb_beh.prj work.lfsr_tb 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/PC/Documents/Obsidian Vault/University Courses/Year 3/Semester 1/EEE40002/Labs/Lab 3/VHDL/Part2/Part2_final.vhd" into library work
+Parsing VHDL file "C:/Users/PC/Documents/Obsidian Vault/University Courses/Year 3/Semester 1/EEE40002/Labs/Lab 3/VHDL/Part2/tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 160144 KB
+Fuse CPU Usage: 265 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavior of entity lfsr [lfsr_default]
+Compiling architecture testbench of entity lfsr_tb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+ERROR:Simulator:861 - Failed to link the design

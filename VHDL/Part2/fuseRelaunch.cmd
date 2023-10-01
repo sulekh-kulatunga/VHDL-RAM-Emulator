@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/PC/Documents/Obsidian Vault/University Courses/Year 3/Semester 1/EEE40002/Labs/Lab 3/VHDL/Part2/lfsr_tb_isim_beh.exe" -prj "C:/Users/PC/Documents/Obsidian Vault/University Courses/Year 3/Semester 1/EEE40002/Labs/Lab 3/VHDL/Part2/lfsr_tb_beh.prj" "work.lfsr_tb" 
